@@ -1,3 +1,11 @@
+## Running the scripts
+Script files <i>assumes</i> that a file named <b>household_power_consumption.txt</b> exists in the current directory.  To do so please do the following
+* clone this repository
+* cd into the directory where you cloned it
+* Downloaded the dataset from the link provided below to its current directory
+* Unzip the downloaded data file
+* Run the R scripts using your favourite R environment/tool.
+
 ## Introduction
 
 This assignment uses data from
